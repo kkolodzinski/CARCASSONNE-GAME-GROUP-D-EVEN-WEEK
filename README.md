@@ -1,2 +1,7 @@
-# CARCASSONNE-GAME-GROUP-D-EVEN-WEEK
-Project of Carcassonne Game 
+Project of Carcassonne Game (Group D)
+
+-Paweł Sasin
+-Kamil Kołodziński
+-Aji Ajeesh
+-Shui Liu
+-Aditya Pratap Singh
