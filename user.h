@@ -1,4 +1,4 @@
-#ifndef _USER_H
+#ifndef USER_H
 #define USER_H
 
 char hello();
